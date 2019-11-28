@@ -1,0 +1,58 @@
+
+.luar {border: 0px solid red; height: 100%; width: 1500px;}
+
+.header {border: 0px ;
+	     padding: 10px;height:600px;
+	     height: 200px;
+	     background-image: url(header.jpg);
+	     }
+
+
+.sidebar {background-image: url(putih.jpg);
+	     ;border: 0px solid black;
+	      float: left;line-height: 30px;height: 750px;width:200px;padding:5px}
+
+
+.footer {border: 0px solid black;
+	     text-align: center;
+	     background-image: url(header.jpg);
+	     background-position:absolute;
+	     background-repeat:no-repeat;
+	     background-size: cover;
+	     color: blue;
+	     clear: both;
+	     text-align: left;
+	     padding: 10px;
+	     height: 100Spx;
+
+ 
+}
+
+.section {border: 0px solid black;
+          float: left;line-height: 30px; height: 750px;width: 770px; padding: 5px}
+
+.produk {border: 0px solid black;
+         padding: 5px; float:right;width: 470PX;height: 365PX;}
+
+.sponsor  {border: 0px solid black;
+           padding: 5px; float:right;width: 470PX;height: 365PX}
+
+
+
+li a:hover{
+	background-color: lightblue;
+	color: red;
+	font-size: 25px
+
+}
+
+.logo1{
+float: left;
+}
+
+.logo2 {
+
+	float: right;
+	
+}
+
